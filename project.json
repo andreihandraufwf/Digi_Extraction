@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.PDF.Activities": "[3.6.0]",
     "UiPath.System.Activities": "[22.4.4]",
     "UiPath.Testing.Activities": "[22.4.3]",
@@ -83,6 +84,24 @@
         "testCaseId": "abbb5213-bbe8-44d0-bf9c-fe23cf67cc14",
         "testCaseType": "TestCase",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "20f4f6bf-4389-4a3f-9c12-49b437e33ce5",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase_CheckInvoices.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0ae91733-897d-4257-83f8-c948a0d8443d",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase_Create_OutputReport.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d2ff4295-3a52-4ad7-adc4-951bb246221e",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase_Get_Invoices.xaml"
       }
     ],
     "modernBehavior": false
